@@ -1,0 +1,14 @@
+﻿  main.cpp
+main.cpp(95): warning C4018: '<': signed/unsigned mismatch
+main.cpp(139): warning C4018: '<': signed/unsigned mismatch
+main.cpp(173): warning C4018: '<': signed/unsigned mismatch
+main.cpp(229): warning C4018: '<': signed/unsigned mismatch
+main.cpp(271): warning C4018: '<': signed/unsigned mismatch
+main.cpp(305): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 271 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SupStegano.vcxproj -> c:\users\adams\documents\visual studio 2015\Projects\SupStegano\Release\SupStegano.exe
+  SupStegano.vcxproj -> c:\users\adams\documents\visual studio 2015\Projects\SupStegano\Release\SupStegano.pdb (Full PDB)

@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\adams\documents\visual studio 2015\projects\supstegano\supstegano\main.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\adams\documents\visual studio 2015\projects\supstegano\supstegano\main.cpp(139): warning C4018: '<': signed/unsigned mismatch
+c:\users\adams\documents\visual studio 2015\projects\supstegano\supstegano\main.cpp(173): warning C4018: '<': signed/unsigned mismatch
+c:\users\adams\documents\visual studio 2015\projects\supstegano\supstegano\main.cpp(225): warning C4018: '<': signed/unsigned mismatch
+c:\users\adams\documents\visual studio 2015\projects\supstegano\supstegano\main.cpp(267): warning C4018: '<': signed/unsigned mismatch
+  SupStegano.vcxproj -> c:\users\adams\documents\visual studio 2015\Projects\SupStegano\Debug\SupStegano.exe
+  SupStegano.vcxproj -> c:\users\adams\documents\visual studio 2015\Projects\SupStegano\Debug\SupStegano.pdb (Partial PDB)
